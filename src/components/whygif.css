@@ -1,0 +1,30 @@
+.gif {
+    width: 350px;
+    height: 350px;
+    transition: 1s;
+    background: transparent;
+    
+}
+
+#why{
+    padding: 8% 0;
+    /* background-color: bisque; */
+}
+
+.giftxt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.giftxt h2 {
+    font-weight: bold;
+    font-size: 2.2vw !important;
+
+}
+
+.giftxt p {
+    text-align: justify;
+    font-size: 1.3vw;
+}

@@ -1,0 +1,78 @@
+.contact p{
+    font-weight: 600;
+    font-size: 1.5vw !important;
+}
+
+@font-face {
+    font-family:dipak;
+    src: url(../images/graphik-bold-web.woff2);
+}
+
+.contactNum h4{
+    font-size: 2vw;
+    font-weight: bold;
+    /* font-weight: 800; */
+    line-height: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative; 
+    margin-top: 2%;
+    z-index: 2;
+    
+}
+
+.formSec{
+    display: flex;
+    justify-content: center;
+}
+.contact h2{
+    font-family: dipak !important;
+}
+.contactNum h3{
+    font-size: 2vw;
+    font-weight: bold;
+    /* font-weight: 800; */
+    line-height: 1;
+    margin-top: 2%;
+    font-family: Arial black;
+    color: orange;
+    letter-spacing: 1px;
+
+}
+.contactNum{
+    margin: 4% 0 3%;
+    padding-left: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:start;
+    gap: 10%;
+    position: relative;
+}
+
+.contactNum h4::after{
+    content: "";
+    width: 100px;
+    height: 100px;
+    background: #fda2a2ad;
+    position: absolute;
+    top: -100%;
+    left: 25%;
+    border-radius: 50%;
+    transform: scale(0);
+    opacity: 0;
+    z-index: -1;
+    transition: all 0.2s;
+}
+/* .contactNum h4:hover{
+    color: white;
+} */
+.contactNum h4:hover::after{
+        transform: scale(2);
+        opacity: 1;
+}
+
+.mailOn{
+    align-items: center;
+        /* justify-content: center;
+        gap: 5%; */
+    
+}

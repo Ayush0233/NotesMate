@@ -1,0 +1,34 @@
+#card{
+    /* width: 100vw; */
+    padding: 15% 0;
+}
+
+.shortCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    padding: 2%;
+    box-shadow: 0 10px 10px #44434380, 0 0 10px #44434380;
+    position: relative;
+    transition: all 0.2s;
+
+}
+.shortCard:hover{
+    transform: translateY(-10%);
+}
+.shortCard p{
+    position: absolute;
+    top: -4%;
+    background-color: rgb(255, 128, 0);
+    padding: 1% 3%;
+    font-family:dipak;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 -5px 10px #44434380;
+}
+.shortCard img{
+    height: 30vh;
+    filter: drop-shadow(0 0 10px #46464694);
+}

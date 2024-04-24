@@ -1,0 +1,8 @@
+.courseName h1{
+    font-size: 3vw;
+    font-family: dipak !important;
+    letter-spacing: 2px;
+    color: #f13c05 !important;
+    font-weight: bold;
+    transition: all 0.3s;
+}

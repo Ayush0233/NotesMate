@@ -1,0 +1,82 @@
+.navbar {
+    /* background: linear-gradient(to bottom, #bd8100, #8e6100) !important; */
+    background: none !important;
+    /* display: none; */
+    /* backdrop-filter: blur(3px); */
+    height: 8vh;
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    padding: 1% 0 ;
+    
+}
+
+#navbarNav {
+    padding-right: 8% !important;
+}
+
+.navbar-brand img {
+    width: 8vw;
+    height: 7vh;
+    /* padding-top: 2%; */
+}
+
+#navbar {
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    background-color: #e4e4e49e !important;
+    backdrop-filter: blur(5px);
+}
+
+.nav-item {
+    padding-right: 30px;
+    font-size: 18px;
+
+}
+.JoinBtn{
+    width: 5vw;
+    padding: 2% 3%;
+    font-size: 1vw;
+    margin-top: 2%;
+}
+.nav-link {
+    color: #1b1919cb;
+    font-weight: bold;
+    opacity: 0.75;
+    overflow-x: hidden;
+    position: relative;
+    transition: 0.2s;
+    /* padding: 5%;
+    background: #ffffffac;
+    border-radius: 15px;
+    box-shadow: inset 23px 23px 24px #838383,
+    inset -23px -23px 24px #ffffff;; */
+}
+
+
+.nav-link:hover {
+    color: #000000;
+    opacity: 1 !important;
+
+}
+
+/* .nav-link:hover .navbar-nav{
+    
+} */
+
+.nav-link::before {
+    transition: 300ms;
+    height: 2px;
+    content: "";
+    position: absolute;
+    background-color: #fc008a;
+    width: 0%;
+    bottom: 5px;
+    border-radius: 5px;
+
+}
+
+.nav-link:hover::before {
+    width: 100%;
+}

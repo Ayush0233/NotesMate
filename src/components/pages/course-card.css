@@ -1,0 +1,62 @@
+.fieldcards {
+    /* border: 1px solid black; */
+    padding: 2% 5%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: #d8d8d8f0;
+    margin: 3% 0;
+    /* box-shadow: 0 0 10px rgba(76, 76, 76, 0.135); */
+    transition: all 0.2s;
+    color: #2b2424;
+    position: relative;
+    /* backdrop-filter: blur(10px); */
+    overflow: hidden;
+    box-shadow:  4px 4px 8px rgba(0, 0, 0, 0.407)
+
+}
+.fieldcards:hover{
+    color: white;
+}
+.fieldcards::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: #6304c2;
+    position: absolute;
+    bottom: -90%;
+    border-radius: 50%;
+    left: 0px;
+
+    transition: all 0.3s;
+}
+
+.fieldcards:hover::after {
+    bottom: 0px;
+    border-radius: 0;
+    /* box-shadow: inset 8px 8px 8px rgba(0, 0, 0, 0.318); */
+}
+.fieldcards i {
+    font-size: 30px;
+    color: #cc005f;
+    /* opacity: 0; */
+    position: relative;
+    /* top: 70px; */
+    transition: all 0.5s;
+    z-index: 9;
+
+}
+
+.fieldcards h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #3c0303;
+    z-index: 9;
+}
+
+.fieldcards img {
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}

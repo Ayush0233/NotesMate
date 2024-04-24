@@ -1,0 +1,35 @@
+@font-face {
+    font-family: ayush;
+    src: url(./images/HouschkaRoundedAlt-Medium.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: ayush;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    
+}
+*::selection {
+    color: #000;
+    background: #04f7d776;
+}
+#main {
+    padding: 0;
+    position: relative;
+    /* overflow: hidden; */
+}
+/* .background{
+    background: url(./images/container-image1.jpg) center center/cover;
+    background-attachment: fixed;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+
+} */

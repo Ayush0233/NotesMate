@@ -1,0 +1,56 @@
+#EasyLearning>* {
+    padding: 0% !important;
+    /* position: relative; */
+
+
+}
+
+#EasyLearning {
+    overflow: hidden;
+    position: relative;
+    /* padding-left: 5%; */
+    /* background-color: red; */
+    /* height: 50vh; */
+}
+
+#EasyLearning img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* position: relative; */
+    scale: 1.1;
+    transition: all 0.6s;
+    
+}
+
+.learnbg{
+    transform: scale(1);
+
+}
+
+#EasyLearning:hover .learnbg{
+    transform: scale(1.2);
+}
+#EasyLearning #secondsection {
+    /* background: url(elements/Learning-made-easier.webp) right center/cover; */
+    width: 100%;
+    height: 100%;
+    margin-top: 1%;
+    margin-left: 5%;
+    /* height: 65vh; */
+    padding: 7%;
+    display: flex;
+    position: absolute;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#innersecond {
+    width: 40%;
+    padding: 3%;
+    color: #ececec;
+    background: #053f63;
+
+
+}

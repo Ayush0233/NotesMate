@@ -1,0 +1,12 @@
+#faq{
+    padding: 5% 0 10%;
+}
+.accordion-item{
+    margin: 2% 0;
+}
+.accordion-button{
+    background: #6d6d6d2c !important;
+    color: green;
+    font-weight: 600;
+    font-size: 3vh;
+}

@@ -1,0 +1,630 @@
+[
+  {
+    "BCA":[
+      {
+        "FIRST SEMESTER":[
+            {
+                
+                "INTRODUCTION TO OPERATING SYSTEM":[
+                    {
+                        "title":"Structure of Operating System",
+                        "gdrivelink":"https://drive.google.com/file/d/1V1OSGddPlgw7kribetcVsvM8S38Tl8UE/view?usp=drive_link",
+                        "youtubelink":"PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=x--8KBKY99HsLbCv"
+                    },
+                    {
+                        "title":"Performance comparison",
+                        "gdrivelink":""
+                        
+                    },
+                    {
+                        "title":"Memory Allocation Method",
+                        "gdrivelink":"https://drive.google.com/file/d/15mT0LgdyQRm4CyibdY74pIVOHUrOA9Vk/view?usp=drive_link"
+                        
+                    },
+                    {
+                        "title":"Fundamentals of Cloud Computing",
+                        "gdrivelink":"https://drive.google.com/file/d/1JfhI3ZoScFwinK22DxZ9cGldRX0p1Fi6/view?usp=drive_link"
+                        
+                    }
+                ],
+                "PROGRAMING CONCEPTS":[
+                    {
+                        "title":"Programming Structure",
+                        "gdrivelink":"https://drive.google.com/file/d/12p6nW6nZktua47dXERqBB7GSn0aJfNKJ/view?usp=drive_link",
+                        "youtubelink":"PLBlnK6fEyqRiteqwlMLXYtZ16xXDR7MO0&si=fz6GkCRjc631eD3N"
+                    },
+                    {
+                        "title":"Arrays",
+                        "gdrivelink":"",
+                        "youtubelink":"PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP&si=8MNFjpaWWiKNePoD"
+                    },
+                    {
+                        "title":"Object Oriented Methodology",
+                        "gdrivelink":"",
+                        "youtubelink":"PLISTUNloqsz0z9JJJke7g7PxRLvy6How9&si=V-SF1STCESeV0hdg"
+                    },
+                    {
+                        "title":"CONSTRUCTORS & DESTRUCTORS",
+                        "gdrivelink":"",
+                        "youtubelink":"PLISTUNloqsz0z9JJJke7g7PxRLvy6How9&si=V-SF1STCESeV0hdg"
+                    }
+                ],
+                "COMPUTER FUNDAMENTALS":[
+                    {
+                        "title":"Basic Components of Digital Computers",
+                        "gdrivelink":"",
+                        "youtubelink":"PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp&si=vO2Pv8mjV6i4pTeN"
+                    },
+                    {
+                        "title":"Memory",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"Number Systems",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"OFFICE AUTOMATION",
+                        "gdrivelink":""
+                    }
+                ],
+                "DISCRETE MATHEMATICS":[
+                    {
+                        "title":"Mathmatical Logic",
+                        "gdrivelink":"https://drive.google.com/file/d/1gr4MmQTh3S_BEu9JoF1O8crKpLNRBlWh/view?usp=drive_link",
+                        "youtubelink":"PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3&si=qwSfc-Y7MLAbFRfO"
+                    },
+                    {
+                        "title":"Normal Forms",
+                        "gdrivelink":"https://drive.google.com/file/d/14Di4ZzQqWvsg99_3JAjaMtkdO9OqssrS/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Set Theory",
+                        "gdrivelink":"https://drive.google.com/file/d/1GS7rHBMCEPujwkwvo0oaD-MfmqmtPM2P/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Graph Theory",
+                        "gdrivelink":"https://drive.google.com/file/d/19XYSCBiTaoZmD-HrKXJU1yYvWO71YrAD/view?usp=drive_link"
+                    }
+                ],
+                "SYSTEM ANALYASIS AND DESIGN":[
+                    {
+                        "title":"Introduction",
+                        "gdrivelink":"https://drive.google.com/file/d/1YDzSDWFMzRJxNMecjPj7Sg2wiJP_DL5t/view?usp=drive_link",
+                        "youtubelink":"PLWxTHN2c_6cbuRXdCpsYYMxy0N4SSfIX9&si=Rx9sZaAqcNzQGzDn"
+                    },
+                    {
+                        "title":"System Design ",
+                        "gdrivelink":"https://drive.google.com/file/d/10j7-3BsCW49YKklmbPSItshL0Glj5shQ/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Project Planning",
+                        "gdrivelink":"https://drive.google.com/file/d/1PgP7xp7AkwyuhJ2VLyJrExe-WPBeUHGZ/view?usp=drive_link"
+                    },
+                    {
+                        "title":"OOAD",
+                        "gdrivelink":"https://drive.google.com/file/d/1_OyYnBDQuCndfeBTDeuqZT6Kt2mr21hi/view?usp=drive_link"
+                    }
+                ],
+                "EFFECTIVE COMMUNICATION ENGLISH":[
+                    {
+                        "title":"Communication",
+                        "gdrivelink":"https://drive.google.com/file/d/1ms-3MSiy6rfLAKRrGfJvWZ25YHPMaCMA/view?usp=drive_link",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Verbal Communication",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Oral Communication Skills",
+                        "gdrivelink":"https://drive.google.com/file/d/1ZXcyhgSWhpQLRGsJnd_TL5-MI8mxm_Xx/view?usp=drive_link",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"VERBAL COMMUNICATION (WRITTEN)",
+                        "gdrivelink":"https://drive.google.com/file/d/1RjWcAQHDKJn1uOLxlZwe0yAtp-pQ_s9b/view?usp=drive_link",
+                        "youtubelink":""
+                    }
+                ]
+            }
+         ], 
+         "SECOND SEMESTER":[
+            {
+                
+                "INTRODUCTION TO DATABASE":[
+                    {
+                        "title":"Introduction to DBMS",
+                        "gdrivelink":"https://drive.google.com/file/d/1zLpE3bC6_S-YXTkHc14_dlzCFK6V4Cpl/view?usp=drive_link",
+                        "youtubelink":"PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ&si=_vZHGmqmLSuEcwaW"
+                    },
+                    {
+                        "title":"E-R Models",
+                        "gdrivelink":"https://drive.google.com/file/d/10iCBgPCt1vjnhrXsK32o1DgoWe3NvAuo/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Relational Model",
+                        "gdrivelink":"https://drive.google.com/file/d/1Bc6gjFYCcj4u_-3wxD0NTf011sxYw3zd/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Functional Dependency",
+                        "gdrivelink":"https://drive.google.com/file/d/1SEcosVqgVin7NXiGWZMXevC5BRcg-9ik/view?usp=drive_link"
+                    }
+                ],
+                "DIGITAL ELECTRONICS":[
+                    {
+                        "title":"Logic gates",
+                        "gdrivelink":"",
+                        "youtubelink":"PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=pS-nB_IT33hYHrCm"
+                    },
+                    {
+                        "title":"Boolean Algebra",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"Combinational / Sequential Circuits Combinational circuits",
+                        "gdrivelink":"https://drive.google.com/file/d/1fHKV-vam3vFLw9Xu_GwMNhZkzThZRzf5/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Sequential Circuits",
+                        "gdrivelink":"https://drive.google.com/file/d/1N8kmltLUtC8gMsdyoA70vafZJfzlxj8k/view?usp=drive_link"
+                    }
+                ],
+                "STATISTICAL METHODS":[
+                    {
+                        "title":"STATISTICAL COMPUTATION",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Measures of Central Tendency",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Measures of Dispersion, Skewness and Kurtosis",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Correlation and Regression",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    }
+                ],
+                "WEB TECHONOLOGY USING HTML AND CSS":[
+                    {
+                        "title":"Basic Introduction",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"HTML",
+                        "gdrivelink":"",
+                        "youtubelink":"PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI&si=rGafwqXI8tbjv4fQ"
+                    },
+                    {
+                        "title":"EXtra In HTML",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"CSS",
+                        "gdrivelink":"",
+                        "youtubelink":"PLhzIaPMgkbxBk9-drEC0MBPqEOXpVlwY4&si=kFLd35NJlGLQD8i9"
+                    }
+                ],
+                "OPERATION RESEARCH":[
+                    {
+                        "title":"Introduction to Operation Research",
+                        "gdrivelink":"",
+                        "youtubelink":"PLU6SqdYcYsfLyEPjMPHT_1ZhTRrnXA55R&si=5yiSgOFUd1Swmyme"
+                    },
+                    {
+                        "title":"Transportation Problem Mathematical model for Transportation Problem, Types of Transportation Problem.",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"Assignment Problem",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"Game Theory",
+                        "gdrivelink":""
+                    }
+                ],
+                "PROFFESSIONAL ENGLISH":[
+                    {
+                        "title":"",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Components of Technical Writing Vocabulary Building",
+                        "gdrivelink":"https://drive.google.com/file/d/1RZ1harkuKLc9vEBULrebT3AOVXnlCJhL/view?usp=drive_link",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"Basic Technical Writing Skills Forms",
+                        "gdrivelink":"https://drive.google.com/file/d/1ENNBplUnmhnCLrUaNN08FBhleboBQswW/view?usp=drive_link",
+                        "youtubelink":""
+                    },
+                    {
+                        "title":"",
+                        "gdrivelink":"",
+                        "youtubelink":""
+                    }
+                ]
+            }
+         ],
+         "THIRD SEMESTER":[
+            {
+                "SOFTWARE ENGINEERING":[
+                    {
+                        "title":"Introduction to Software Engineering",
+                        "gdrivelink":"https://drive.google.com/file/d/17OWV9DJAIe16l8V_kDNANHgwJ6OjefwN/view?usp=drive_link",
+                        "youtubelink":"PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr&si=grB2BrkAwx-XMkwM"
+                    },
+                    {
+                        "title":"Process models",
+                        "gdrivelink":"https://drive.google.com/file/d/1vGav4l4Vk2IzoBUin5Sfizh_nserD1Ye/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Requirements engineering process",
+                        "gdrivelink":"https://drive.google.com/file/d/1ckFp0-jsrAvHynJIy0z34t4IrQ_9LGKN/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Design Engineering",
+                        "gdrivelink":"https://drive.google.com/file/d/1ToJdkXwKPL_i92avWGc-5DlMiwLOgxhM/view?usp=drive_link"
+                    }
+                ],
+                "C# PROGRAMING":[
+                    {
+                        "title":".NET",
+                        "gdrivelink":"https://drive.google.com/file/d/1OEpBjNB00SVv0AP0TJIsh-LEBSYkt78G/view?usp=drive_link",
+                        "youtubelink":"PLqleLpAMfxGCeYF_4IA3_exiB6cC-FQ_L&si=Uw9m1FmCyRBNBxiF"
+                    },
+                    {
+                        "title":"Decision Making and Branching  , Methods in C# , Handing arrays ,  Structures and Enumerations ",
+                        "gdrivelink":"https://drive.google.com/file/d/1KcNrLQwmJofnxxD9Sf4YP3PbS2CB2YfO/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Class and Objects , Inheritance and Polymorphism ,  Interface",
+                        "gdrivelink":"https://drive.google.com/file/d/1EnwZesQTxrtXm7gFaQGD3JvHMcaJLzSj/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Managing Errors and Exceptions ",
+                        "gdrivelink":"https://drive.google.com/file/d/1bAsk6MEUE7F0t9HfHzDlZiMqUFJKZ00b/view?usp=drive_link"
+                    }
+                ],
+                "NUMERIACAL METHODS":[
+                    {
+                        "title":"Solution to Linear Equations Existence of solution, Gauss Elimination Method, Gauss elimination with pivoting, Gauss Jordan Method, Round off errors and refinement, m Conditioned system, Matrix inversion method",
+                        "gdrivelink":"",
+                        "youtubelink":"PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC&si=tOcMVx9HoI6r77oe"
+                    },
+                    {
+                        "title":"Least Square regression Fitting, Transcendental equations, Multiple linear regression ",
+                        "gdrivelink":"https://drive.google.com/file/d/1eRvu-rLNGKadW6ceV6qoQxATtxuZQvUU/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Integration & Differentiation : Trapezoidal Rule, Simpson 1/3 Rule, Simpson 3/8 rule, Gaussian Integration",
+                        "gdrivelink":"https://drive.google.com/file/d/1PsQzTSQy8_Py0KIRYWvR2lIn0bFSQhm7/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Solution to differential equation (using Runge-Kutta second and fourth order methods)",
+                        "gdrivelink":"https://drive.google.com/file/d/1tVNqIOVGMnVwW2P_mB3qn2s2qznx2GsF/view?usp=drive_link"
+                    }
+                ],
+                "THEORY OF COMPUTATION":[
+                    {
+                        "title":"Finite Automation and Regular Expression",
+                        "gdrivelink":"",
+                        "youtubelink":"PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&si=_-xJZ49gB_CI69zn"
+                    },
+                    {
+                        "title":"Properties of Regular Sets",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"Simplification of context Free Grammars, Chomsky Normal form, Greibach normal form. Properties of Context free languages: The pumping lemma for CFL’s, Closure properties of CFL’s",
+                        "gdrivelink":""
+                    },
+                    {
+                        "title":"Push Down Automata",
+                        "gdrivelink":""
+                    }
+                ],
+                "WEB DEVELOPMENT USING SCRIPTING LANGUAGE":[
+                    {
+                        "title":"Introduction to JSP",
+                        "gdrivelink":"https://drive.google.com/file/d/1RIlhfYNPqWdQLAcupofP6VPJ8XEAzSM9/view?usp=drive_link",
+                        "youtubelink":"PLlhM4lkb2sEiiEAP0uSFXiFY8KdXPnN0f&si=8SrFLzNMFUNblmZy"
+                    },
+                    {
+                        "title":"Introduction to Javascript",
+                        "gdrivelink":"https://drive.google.com/file/d/1tLdemadirc_6F07X_GWTQ2ea6-pvLc83/view?usp=drive_link",
+                        "youtubelink":"PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW&si=eltkcOX7ae3x8FWF"
+                    },
+                    {
+                        "title":"VB Script",
+                        "gdrivelink":"https://drive.google.com/file/d/1FobJcBNq5tgyXbLmW_1lMdTqtydqidK9/view?usp=drive_link",
+                        "youtubelink":"PL85sj9BSdQ14Uuz1beTSrBgM97BJ8M5DK&si=tqcPOhU6dJhu_a47"
+                    },
+                    {
+                        "title":"XML",
+                        "gdrivelink":"https://drive.google.com/file/d/1xV-3xg739HivKVyGcdZJYQQGZvIOL8Hy/view?usp=drive_link",
+                        "youtubelink":"PLV8vIYTIdSnai886vBer6WgpqhQkPZrLB&si=emwRT3lP06aBf2lW"
+                    }
+                ]
+            }
+         ],
+         "FORTH SEMESTER":[
+            {
+                "PLSQL PROGRAMING":[
+                    {
+                        "title":"ODDS Rules",
+                        "gdrivelink":"https://drive.google.com/file/d/1o_YDlc6_R3XS1tNn0WPp7l5uxfkZkeuR/view?usp=drive_link",
+                        "youtubelink":"PLzU9fk1ZX6AR2E7zAaM4dqZIu4CkyziWa&si=oADKgR81uKcrL1WI"
+                    },
+                    {
+                        "title":"Working with Sequences and Synonyms , VIEWS",
+                        "gdrivelink":"https://drive.google.com/file/d/155QQI8OGTFFxqhI50iFdZSHE6VqflSS_/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Exception Handling , Cursors , Procedures",
+                        "gdrivelink":"https://drive.google.com/file/d/1iSsY5plIOLvkmerVnk7pDcI1owhy2RK0/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Function and Triggers",
+                        "gdrivelink":"https://drive.google.com/file/d/1nA_Z9i4omKc9kPUF2Khje2s-dF6Jsfvh/view?usp=drive_link"
+                    }
+                ],
+                "CORE JAVA PROGRAMING":[
+                    {
+                        "title":"Introduction to Java",
+                        "gdrivelink":"https://drive.google.com/file/d/1DndeNyAXvr8iBoudqVyjtsIqL5QLr497/view?usp=drive_link",
+                        "youtubelink":"PLFGoYjJG_fqqyIj2ht0aHMx_HnGX3ZFEx&si=rDFAWb3W50Z5DPbb"
+                    },
+                    {
+                        "title":"Creating a class & subclass ,  Data members , Methods , Specifier & Modifiers , Decision making & loops , String, Inheritance",
+                        "gdrivelink":"https://drive.google.com/file/d/1rNNBWx0vPvtP68km26PFi-ZosHY7b-z7/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Packages , Import statement , Applets , Threads , Exceptions & Errors",
+                        "gdrivelink":"https://drive.google.com/file/d/1_m0T9RSE3IfQR5g4xQCB8RKsiVe-o_xH/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Event , Graphic class , AWT Applications",
+                        "gdrivelink":"https://drive.google.com/file/d/1ceuYaeirA77YaVhzIRpwWEGT13uDDy9f/view?usp=drive_link"
+                    }
+                ],
+                "DATA STRUCTURE":[
+                    {
+                        "title":"LINKED LIST",
+                        "gdrivelink":"https://drive.google.com/file/d/1gSeAd4YVMvhQzcQI80mxFrEvHCxeT0cv/view?usp=drive_link",
+                        "youtubelink":"PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&si=oDO_5mj6f2xXRTS7"
+                    },
+                    {
+                        "title":"STACKS",
+                        "gdrivelink":"https://drive.google.com/file/d/1nkeL5Nf8ZcJD8FyIjDcbGKxbnL5qheiU/view?usp=drive_link"
+                    },
+                    {
+                        "title":"QUEUE and SORTING AND SEARCHING",
+                        "gdrivelink":"https://drive.google.com/file/d/1tL97HifAz5j1zRK87BiizDSYOK-ghasV/view?usp=drive_link"
+                    },
+                    {
+                        "title":"TREES and GRAPHS ",
+                        "gdrivelink":"https://drive.google.com/file/d/1V20xnoIt9rQuDIejpUKB881qcAg06TJF/view?usp=drive_link"
+                    }
+                ],
+                "COMPUTER NETWORKING":[
+                    {
+                        "title":"Communication Architecture Protocols & Architecture",
+                        "gdrivelink":"https://drive.google.com/file/d/1syQRcNZV_Y_uIsllD5t4M6HXKcONbM6x/view?usp=drive_link",
+                        "youtubelink":"PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=AbswtvLkE4FZ7YXj"
+                    },
+                    {
+                        "title":"Digital Data Communication",
+                        "gdrivelink":"https://drive.google.com/file/d/1UYDfz7lOQqLiQ0gfN9yLpmZPkPpZxVUg/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Data Communication Data Transmission",
+                        "gdrivelink":"https://drive.google.com/file/d/1LEl1zXSlZaIPoCehudAYPEwyadLQCS5c/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Multiplexing and Communication Layer Protocols",
+                        "gdrivelink":"https://drive.google.com/file/d/1RdzVWTpWm4dnM3to0CsxHlN5_MCCc_Mp/view?usp=drive_link"
+                    }
+                ],
+                "PHP PROGRAMING AND MySQL":[
+                    {
+                        "title":"Introduction to PHP",
+                        "gdrivelink":"https://drive.google.com/file/d/1QbBt8EcDr8wjHhnsVebGqmnTH_aGhXO9/view?usp=drive_link",
+                        "youtubelink":"PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR&si=gm3n1NQL1Ss87gb_"
+                    },
+                    {
+                        "title":"Reading data in web pages",
+                        "gdrivelink":"https://drive.google.com/file/d/1E0m05f35IbsLfL0UK6L_KNfXjm2Qi1vm/view?usp=drive_link"
+                    },
+                    {
+                        "title":"PHP Browser-Handling Power",
+                        "gdrivelink":"https://drive.google.com/file/d/1oe3lTM2mmMijom5WW0i_FLtnjjQN0OcX/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Working With Database",
+                        "gdrivelink":"https://drive.google.com/file/d/1ZZ_tM973RPk3B_E6BMOBC4MYgXlRO_6B/view?usp=drive_link"
+                    }
+                ]
+            }
+         ],
+        "FIFTH SEMESTER":[
+           {
+              "PYTHON":[
+                 {
+                     "title":"Introduction to Python, Installing Python and Operators",
+                     "gdrivelink":"https://drive.google.com/file/d/1PFe_q8pDW0oO-Vy-OPFQiZshPMPz-pH8/view?usp=drive_link",
+                     "youtubelink":"PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=XGp8j0TgmIhwQPHz"
+                 },
+                 {
+                      "title":"Control Statements and concepts of array",
+                      "gdrivelink":"https://drive.google.com/file/d/1ZN9tSPOtQBnGUKbWox1A5iTzY1XYZMZs/view?usp=drive_link"
+                 },
+                 {
+                       "title":"Concept of OOPs",
+                       "gdrivelink":"https://drive.google.com/file/d/1xta3BuZKFCcFR6gkzNN9hTG2x4VWmkPQ/view?usp=drive_link"
+                 },
+                 {
+                        "title":"String and Tuples",
+                        "gdrivelink":"https://drive.google.com/file/d/18MqIgWnT8uA-LL6oCJYIfgup4s1WT8pn/view?usp=drive_link"
+                 }
+                ],
+                "COMPUTER GRAPHICS":[
+                    {
+                        "title":"BASICS OF COMPUTER GRAPHICS",
+                        "gdrivelink":"https://drive.google.com/file/d/1B1CHS3b41tV4BSH-mIkkTR0uhkmmfGgi/view?usp=drive_link",
+                        "youtubelink":"PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T&si=ayEv_1DdrakdIPFk"
+                    },
+                    {
+                         "title":"GRAPHIC DEVICES AND OUTPUT PRIMITIVES",
+                         "gdrivelink":"https://drive.google.com/file/d/1KRxKC9zsUJFW4B3EjWfBdcayS8Tmzi9b/view?usp=drive_link"
+                    },
+                    {
+                          "title":"TWO DIMENSIONAL TRANSFORMATIONS",
+                          "gdrivelink":"https://drive.google.com/file/d/1IyvbIcUXkRZMMSt9ZZhVw1jGphFNuShx/view?usp=drive_link"
+                    },
+                    {
+                           "title":"CLIPPING AND WINDOWING",
+                           "gdrivelink":"https://drive.google.com/file/d/1o-f3Fzd8t1hvPCUX4z27oaYGn1L_F_3O/view?usp=drive_link"
+                    }
+                ],
+                "ADAVANCE JAVA":[
+                    {
+                        "title":"JDBC and Networking",
+                        "gdrivelink":"https://drive.google.com/file/d/11peNiJ3hvYkBb2VrItFPNjT2Hn3WItO6/view?usp=drive_link",
+                        "youtubelink":"PLlhM4lkb2sEjVsbbZ_kiixY5CcR84IQUg&si=O6d5Gijwh0keFjcH"
+                    },
+                    {
+                        "title":"Servlet and JSP",
+                        "gdrivelink":"https://drive.google.com/file/d/1ALILLjAl9riHs5895mFsDBDPYNHZSNJr/view?usp=drive_link"
+                    },
+                    {
+                        "title":"RMI and JavaBean",
+                        "gdrivelink":"https://drive.google.com/file/d/1wNgn7ZWYIhzHAr2I1N10VuBxpLXxwFsE/view?usp=drive_link",
+                        "youtubelink":"PLZ3hIee7slTWXUp8WJe1sCnPuPXXkNx-l&si=56kzkO9Rk_pyKRVw"
+                    },
+                    {
+                        "title":"Hibernate",
+                        "gdrivelink":"https://drive.google.com/file/d/1T_FAzAy1yfl9URmWdD2FsB9A--wJfpsG/view?usp=drive_link",
+                        "youtubelink":"PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r&si=NA-2YeAufAAE34nv"
+                    }
+                ],
+                "XML PROGRAMING":[
+                    {
+                        "title":"Introduction , Attributes and values , Writing XML",
+                        "gdrivelink":"https://drive.google.com/file/d/1snIfuUATlP4tqyfpXYVE_k-xuXdu3M-W/view?usp=drive_link",
+                        "youtubelink":"PLV8vIYTIdSnai886vBer6WgpqhQkPZrLB&si=2fAC_ZRNoz_zZR9f"
+                    },
+                    {
+                        "title":"XSL and XSLT Stylesheet",
+                        "gdrivelink":"https://drive.google.com/file/d/13iJPMUcsPA3AEkDqk6B6HpCeCKCkiM9n/view?usp=drive_link"
+                    },
+                    {
+                        "title":"DTD",
+                        "gdrivelink":"https://drive.google.com/file/d/153_lKFUH_mKdPqMhDykIFeKPsxE5E65n/view?usp=drive_link",
+                        "youtubelink":"TGQKy7vc8RSg9fFb"
+                    },
+                    {
+                        "title":"Entities and Notations in DTDs",
+                        "gdrivelink":"https://drive.google.com/file/d/1AUmSQp2ojEqXcXlGsXtPP2zeN2T8mVjz/view?usp=drive_link",
+                        "youtubelink":"1UiqNfHWKV9aYaip"
+                    }
+                ],
+                "CLOUD COMPUTING":[
+                    {
+                        "title":"Introduction of cloud Computing",
+                        "gdrivelink":"https://drive.google.com/file/d/1B1CHS3b41tV4BSH-mIkkTR0uhkmmfGgi/view?usp=drive_link",
+                        "youtubelink":"PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV&si=C2x0vVpro__HKZz8"
+                    },
+                    {
+                        "title":"Virtualization",
+                        "gdrivelink":"https://drive.google.com/file/d/1KRxKC9zsUJFW4B3EjWfBdcayS8Tmzi9b/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Cloud Computing for the Family and Community",
+                        "gdrivelink":"https://drive.google.com/file/d/1IyvbIcUXkRZMMSt9ZZhVw1jGphFNuShx/view?usp=drive_link"
+                    },
+                    {
+                        "title":"OUTSIDE THE CLOUD , Storing and Sharing",
+                        "gdrivelink":"https://drive.google.com/file/d/1o-f3Fzd8t1hvPCUX4z27oaYGn1L_F_3O/view?usp=drive_link"
+                    }
+                ]
+
+            }
+          ],
+         "SIXTH SEMESTER":[
+            {
+                "ASP.NET PROGRAMING":[
+                    {
+                        "title":"ASP.NET Environment",
+                        "gdrivelink":"https://drive.google.com/file/d/18u5zJgm9pbE60o2SdnJ_WxSFPDsL5-8V/view?usp=drive_link",
+                        "youtubelink":"PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA&si=JlRDHqKrdEKxhsUQ"
+                    },
+                    {
+                        "title":"ASP.NET Core Server controls:",
+                        "gdrivelink":"https://drive.google.com/file/d/1kCmVDmmzdwkDM6ri-KCVeHYf66x4mgPe/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Multiple forms Rich Page Composition",
+                        "gdrivelink":"https://drive.google.com/file/d/14Tw9c-EdXpcStTjkyJvjlismPratfqOs/view?usp=drive_link"
+                    },
+                    {
+                        "title":"ADO.NET Connectivity and data Providers",
+                        "gdrivelink":"https://drive.google.com/file/d/1q6RGIyTWHsTeNylDwYgD_1ffrS_77iU_/view?usp=drive_link"
+                    }
+                ],
+                "COMPUTER ARCHITECTURE AND ORGANIZATION":[
+                    {
+                        "title":"Machine instructions and addressing modes ",
+                        "gdrivelink":"https://drive.google.com/file/d/1UNOVr1kdw2k_iJJnMdcFf5-NbhKSITXV/view?usp=drive_link",
+                        "youtubelink":"PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX&si=5zEVDbNzdz7oRPnj"
+                    },
+                    {
+                        "title":"Instruction pipelining & I/O interface (Interrupt and DMA mode)",
+                        "gdrivelink":"https://drive.google.com/file/d/1UNOVr1kdw2k_iJJnMdcFf5-NbhKSITXV/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Memory Organization",
+                        "gdrivelink":"https://drive.google.com/file/d/18-zjhFvnIh5jX2xXRZLvJbsBQKJe3_L8/view?usp=drive_link"
+                    },
+                    {
+                        "title":"8086 Microprocessor",
+                        "gdrivelink":"https://drive.google.com/file/d/1OyvmpPowL1G4hUe26wz4388u03SVKwLt/view?usp=drive_link"
+                    }
+                ],
+                "MOBILE APPLICATION DEVELOPMENT":[
+                    {
+                        "title":"Introduction to Mobile Programming",
+                        "gdrivelink":"https://drive.google.com/file/d/1pGBhETt0q7diGzmpo7dX1d7wf-v0sMzk/view?usp=drive_link",
+                        "youtubelink":"PLPk568PPJYTOSCuuMYYZGvtuWIAFsnuya&si=8jQF5nGarUty74gS"
+                    },
+                    {
+                        "title":"Android and UI Architecture",
+                        "gdrivelink":"https://drive.google.com/file/d/1CLWqI50deTUGbsiVKKafPbf95U3Ls-8j/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Android User Interface Design Essentials",
+                        "gdrivelink":"https://drive.google.com/file/d/12Xm7PGOFs6CjNlfGkfVKHKnaW3YK0tn_/view?usp=drive_link"
+                    },
+                    {
+                        "title":"Android Menu",
+                        "gdrivelink":"https://drive.google.com/file/d/1Baqv25PCi2wGAUZMIAdoKDtma2AtblUS/view?usp=drive_link"
+                    }
+                ]
+            }
+         ]
+  
+        }
+      ]
+    }
+]

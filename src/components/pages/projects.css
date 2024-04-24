@@ -1,0 +1,44 @@
+.projectCard{
+    margin: 5% 3% 0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(120, 120, 120, 0.604);
+}
+
+.project>*{
+    padding: 0;
+}
+
+.projectCard img{
+    width: 100%;
+    height: 50%;
+}
+.projectCard h3{
+    font-weight: 800;
+}
+.projectCard h5{
+    display: flex;
+    justify-content: space-between;
+}
+
+.projectCard h5 i{
+    font-size: 5vh;
+    color: black;
+}
+.projectCard p{
+    font-size: 2.5vh !important;
+    padding: 0 !important;
+    color:#99acbf;
+}
+
+.innerpro{
+    padding: 2% 6%;
+}
+
+
+.projectCard a button{
+    border: 2px solid rgb(2, 202, 2);
+    outline: none;
+    padding: 1% 6%;
+    border-radius: 15px;
+}

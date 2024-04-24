@@ -1,0 +1,19 @@
+#AccelerateSection {
+    width: 50%;
+    padding: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#AccelerateSection h2 {
+    font-weight: 600;
+}
+
+.AccelerateGif {
+    transition: 1s;
+}
+
+.AccelerateGif:hover {
+    transform: rotateX(20deg);
+}

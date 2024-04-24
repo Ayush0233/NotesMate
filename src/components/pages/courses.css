@@ -1,0 +1,29 @@
+.cardsection {
+    margin: 0;
+    padding: 0 0 5%;
+}
+#field {
+    /* width: 100vw !important; */
+    padding: 0;
+
+}
+#fieldcards {
+    padding: 5% 0;
+    width: 100% !important;
+    top: 0;
+    backdrop-filter: blur(3px);
+
+    /* background: #ac6565bd; */
+}
+#fieldcards h1 {
+    font-size: 5vw;
+    font-family: impact;
+    letter-spacing: 2px;
+    color: #ff83b9;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+#fieldcards h1:hover {
+    text-shadow: 0 0 10px #4343438b;
+}
