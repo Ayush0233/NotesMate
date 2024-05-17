@@ -26,7 +26,6 @@
 import React from 'react';
 import CourseName from './CourseName'
 import './bca.css'
-import VideoPlayer from './youtube';
 
 import JSONRenderer from './jsonRender';
 

@@ -1,6 +1,5 @@
 import React from 'react'
 import './courses.css'
-import Header from '../header'
 import CourseGrouped from './course-grped'
 import Footer from '../footer'
 import Pageheading from './Pageheading'

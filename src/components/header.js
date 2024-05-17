@@ -7,7 +7,7 @@ const Header = () => {
         <div>
             <nav className="navbar navbar-expand-lg" id="navbar">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">
+                    <a className="navbar-brand">
                         <img src={logo} className="img-fluid" alt="NOTESMATE" />
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"

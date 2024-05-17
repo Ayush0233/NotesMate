@@ -1,5 +1,6 @@
 import React from 'react'
 import './footer.css'
+import { Link } from 'react-router-dom'
 const Footer = () => {
     return (
         <div class="row justify-content-center" id='footerSec'>
@@ -19,10 +20,10 @@ const Footer = () => {
                     <div class="col-md-2 links">
                         <h4>Company</h4>
                         <ul>
-                            <li><a href="#" class="nav-link-footer ">About Us</a></li>
-                            <li><a href="#" class="nav-link-footer ">Contact Us</a></li>
-                            <li><a href="#" class="nav-link-footer ">Help</a></li>
-                            <li><a href="#" class="nav-link-footer ">Creators</a></li>
+                            <li><Link to="/about" class="nav-link-footer ">About Us</Link></li>
+                            <li><Link to="/contact" class="nav-link-footer ">Contact Us</Link></li>
+                            <li><Link to="/help" class="nav-link-footer ">Help</Link></li>
+                            <li><Link to="/projects" class="nav-link-footer ">Projects</Link></li>
                         </ul>
                     </div>
                     <div class="col-md-2 links">

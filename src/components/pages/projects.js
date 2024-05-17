@@ -3,14 +3,6 @@ import Pageheading from './Pageheading';
 import './projects.css'
 import project from "../jsonfiles/project.json"
 const Projects = () => {
-// const [data, setData] = useState([])
-// useEffect(() => {
-//     // Fetch the JSON data from the external source
-//     fetch("../jsonfiles/project.json")
-//       .then(response => response.json())
-//       .then(data => setData(data))
-//       .catch(error => console.error('Error fetching data:', error));
-//   }, []); // Empty dependency array to ensure useEffect runs only once
   return (
     <div className='container-fluid'>
       

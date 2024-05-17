@@ -39,9 +39,11 @@ const Form = () => {
                 <label for="validationTextarea" class="form-label">Your Message</label>
                 <textarea class="form-control" rows="5" id="validationTextarea"
                  placeholder="Your Feedback" 
+                 value={textarea}
                  onChange={(e) => {  
+                    
                     settextarea(e.target.value)
-                    console.log(e.target.value)
+                    // console.log(e.target.value)
                  }}
                  required></textarea>
                 <div class="invalid-feedback">
